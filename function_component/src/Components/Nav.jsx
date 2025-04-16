@@ -22,7 +22,7 @@ export default function Nav() {
       </ul>
       <form className="d-flex">
         <input className="form-control me-2" type="text" placeholder="Search"/>
-        <button classNameName="btn btn-primary" type="button">Search</button>
+        <button className="btn btn-primary" type="button">Search</button>
       </form>
     </div>
   </div>
